@@ -50,7 +50,7 @@ class Question {
 Question._All = [
   new Question("Where in the world is Carmen Sandiego?"),
   new Question("What's your favorite TV Show?"),
-  new Question("What superpower would you want?")
+  new Question("What superpower would you want???")
 ]
 
 module.exports = Question
